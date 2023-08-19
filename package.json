@@ -38,17 +38,5 @@
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^7.0.0",
     "vue-cli-plugin-i18n": "~2.3.1"
-  },
-  "keywords": [
-    "crypto",
-    "cryptocurrency",
-    "d3",
-    "binance",
-    "exchange",
-    "trade",
-    "websocket",
-    "bootstrap",
-    "vue",
-    "vue-cli"
-  ]
+  }
 }

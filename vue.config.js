@@ -7,7 +7,7 @@ module.exports = {
     config
       .plugin('html')
       .tap(args => {
-        args[0].description = 'Example Vue.js website demonstrating how to listen to the Binance Websocket server and trade charts using d3.js.'
+        args[0].description = ''
         return args
       })
   },
