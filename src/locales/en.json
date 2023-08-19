@@ -1,0 +1,20 @@
+{
+  "about": "About",
+  "home": "Home",
+  "overview": "Overview",
+  "converter": "Convert {quote} / {symbol} ",
+  "trending": "Trending assets",
+  "trendingdescription": "Select a currency below for a live price chart and conversion calculator.",
+  "currencyprice": "{name}",
+  "more": "",
+  "top": "top currencies",
+  "toptitle": "Top Currencies",
+  "liveprices": "Live Prices",
+  "detail": "Details",
+  "name": "Asset",
+  "price": "Current Price",
+  "dailychange": "24h",
+  "low": "Low",
+  "high": "High",
+  "highlow": "Trend for Selected Timeframe"
+}
